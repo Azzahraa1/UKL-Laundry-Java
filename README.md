@@ -1,0 +1,5 @@
+![akun baru](https://github.com/Azzahraa1/UKL-Laundry-Java/assets/107418303/60aafec2-dfc7-4275-8f74-0d7e03dc3946)
+![list laundry](https://github.com/Azzahraa1/UKL-Laundry-Java/assets/107418303/fc9200d3-b33d-48b8-8f1f-05286cf18be4)
+![list petugas](https://github.com/Azzahraa1/UKL-Laundry-Java/assets/107418303/996ba789-3c19-43d1-b397-572c5a7fbff3)
+![list client](https://github.com/Azzahraa1/UKL-Laundry-Java/assets/107418303/846cd53a-1394-42e8-b5ca-fb98e7d0cfdd)
+![transaksi](https://github.com/Azzahraa1/UKL-Laundry-Java/assets/107418303/e1286978-897f-4571-a96f-e8225f3ac823)
